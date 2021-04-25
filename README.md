@@ -1,4 +1,4 @@
 # Weather App in React
 
-[Demo](https://poojadhongadi.github.io/Weather-App/).
+![Image of demo](https://PoojaDhongadi.github.com/Weather-App/src/images/demo.jpg)
 
